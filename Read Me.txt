@@ -1,0 +1,6 @@
+These files are the code made by Mohit Kumar Ahuja for Visual Tracking Lab 1
+Submitted to: Dr. Desire Sidibe 
+
+1. bac_sub_car.m : This file contains the implimentation of Frame difference, Running Average Gaussian and Eigen Background using "CAR" Sequence.
+
+2. bac_sub_Highway.m : This file contains the implimentation of Frame difference, Running Average Gaussian and Eigen Background using "Highway" Sequence.
